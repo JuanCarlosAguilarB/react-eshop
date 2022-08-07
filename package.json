@@ -1,0 +1,26 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "react-shop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCarlosAguilarB/react-eshop.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Juan Carlos Aguilar Bosiga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanCarlosAguilarB/react-eshop/issues"
+  },
+  "homepage": "https://github.com/JuanCarlosAguilarB/react-eshop#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
